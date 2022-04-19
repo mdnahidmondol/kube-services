@@ -4,5 +4,5 @@ metadata:
   name: external-service
 spec:
   type: ExternalName
-  # fully qualified  domain name
+  # fully qualified  domain name must
   externalName: external-service.com  
